@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\bin\Debug\net7.0\interface2.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\bin\Debug\net7.0\interface2.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\bin\Debug\net7.0\interface2.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\bin\Debug\net7.0\interface2.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\bin\Debug\net7.0\interface2.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\refint\interface2.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\interface2.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção14-Interfaces\interface2\interface2\obj\Debug\net7.0\ref\interface2.dll
