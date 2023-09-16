@@ -2,7 +2,7 @@
 
 namespace Services
 {
-    internal class BrasilTaxServices
+    internal class BrasilTaxService : ITaxService
     {
         public double Tax(double amount)
         {
